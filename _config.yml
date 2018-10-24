@@ -4,3 +4,5 @@ description: DevOps and related
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jemoji
+  
