@@ -1,5 +1,5 @@
 # Knowledge Base
-[_Home_](https://corneliu.cl)
+[_Home_](../README.md)
 
 ## Oct-18
 
