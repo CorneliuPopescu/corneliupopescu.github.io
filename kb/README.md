@@ -1,6 +1,10 @@
 # Knowledge Base
 [_Home_](https://corneliu.cl)
 
+## Oct-18
+
+- [What Should Your Digital Experience Stack Look Like? It Depends](jekyll-themes-for-github-pages.md)
+
 ## Aug-18
 
 - [Jekyll Themes for Github Pages](jekyll-themes-for-github-pages.md)
