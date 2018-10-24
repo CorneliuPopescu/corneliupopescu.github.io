@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-cayman
 title: Corneliu's Blog
 description: DevOps and related
 plugins:
