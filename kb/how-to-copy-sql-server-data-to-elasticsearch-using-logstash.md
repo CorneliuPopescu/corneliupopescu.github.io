@@ -9,3 +9,5 @@
 > I'd like to share how to import SQL Server data to Elasticsearch (version 6.2) using LS and verify the result on Kibana.
 
 Tags: ELK, SQL Server
+
+[_Back_](README.md)

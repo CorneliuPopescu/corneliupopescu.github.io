@@ -9,3 +9,5 @@
 > The authors draw on modern management approaches to provide proven techniques and tools for producing, and sustaining, creative products that go beyond “meeting requirements”. By creating teams who are accountable for business outcomes, engineering for customer delight, and creating value for all stakeholders - profitability, customer satisfaction and employee engagement are all increased.
 
 Tags: agile, project management, risk management
+
+[_Back_](README.md)
