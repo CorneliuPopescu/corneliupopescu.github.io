@@ -3,7 +3,7 @@
 
 ## Oct-18
 
-- [What Should Your Digital Experience Stack Look Like? It Depends](jekyll-themes-for-github-pages.md)
+- [What Should Your Digital Experience Stack Look Like? It Depends](digital-experience-stack.md)
 
 ## Aug-18
 
