@@ -3,3 +3,4 @@ title: Corneliu's Blog
 description: DevOps and related
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
