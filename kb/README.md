@@ -4,6 +4,7 @@
 ## Oct-18
 
 - [What Should Your Digital Experience Stack Look Like? It Depends](digital-experience-stack.md)
+- [Magic Quadrant for Contact Center as a Service, North America](gartner-2018-mq-ccaas-na.md)
 
 ## Aug-18
 
