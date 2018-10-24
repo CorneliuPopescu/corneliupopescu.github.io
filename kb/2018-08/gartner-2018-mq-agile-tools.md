@@ -6,4 +6,4 @@
 
 Tags: Gartner, agile
 
-[_Back_](../README.md)
+[_Back_](../)

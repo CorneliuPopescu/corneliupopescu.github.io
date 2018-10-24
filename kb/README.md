@@ -1,5 +1,5 @@
 # Knowledge Base
-[_Home_](../README.md)
+[_Home_](../)
 
 ## Oct-18
 
