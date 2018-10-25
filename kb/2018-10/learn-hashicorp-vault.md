@@ -5,7 +5,7 @@
 > 
 > Learn about secrets management and data protection with HashiCorp Vault
 
-![Learn Hashicorp Vault](https://learn.hashicorp.com/vault/)
+[Learn Hashicorp Vault](https://learn.hashicorp.com/vault/){:target="_blank"}
 
 [Advanced tracks](https://learn.hashicorp.com/vault/#advanced)
 
