@@ -6,6 +6,7 @@
 - [What Should Your Digital Experience Stack Look Like? It Depends](2018-10/digital-experience-stack.md)
 - [Magic Quadrant for Contact Center as a Service, North America](2018-10/gartner-2018-mq-ccaas-na.md)
 - [DevOps Tools Lifecycle Mesh 2018](2018-10/devops-tools-lifecycle-mesh-2018.md)
+- [Learn Hashicorp Vault](2018-10/learn-hashicorp-vault.md)
 
 ## Aug-18
 
