@@ -7,7 +7,7 @@
 
 [Learn Hashicorp Vault](https://learn.hashicorp.com/vault/){:target="_blank"}
 
-[Advanced tracks](https://learn.hashicorp.com/vault/#advanced)
+[Advanced tracks](https://learn.hashicorp.com/vault/#advanced){:target="_blank"}
 
 Tags: security, Vault, Hashicorp
 

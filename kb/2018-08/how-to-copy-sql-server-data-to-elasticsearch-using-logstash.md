@@ -6,7 +6,7 @@
 > 
 > I'd like to share how to import SQL Server data to Elasticsearch (version 6.2) using LS and verify the result on Kibana.
 
-[How to copy SQL Server data to Elasticsearch using LogStash](https://codeshare.co.uk/blog/how-to-copy-sql-server-data-to-elasticsearch-using-logstash/)
+[How to copy SQL Server data to Elasticsearch using LogStash](https://codeshare.co.uk/blog/how-to-copy-sql-server-data-to-elasticsearch-using-logstash/){:target="_blank"}
 
 Tags: ELK, SQL Server
 
