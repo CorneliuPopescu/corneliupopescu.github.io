@@ -9,6 +9,7 @@
 - [DevOps Tools Lifecycle Mesh 2018](2018-10/devops-tools-lifecycle-mesh-2018.md){:target="_blank"}
 - [Learn Hashicorp Vault](2018-10/learn-hashicorp-vault.md){:target="_blank"}
 - [Introducing the DigitalOcean Terraform Provider](2018-10/digitalocean-terraform-provider.md){:target="_blank"}
+- [Accelerate: State of DevOps 2018: Strategies for a New Economy](2018-10/DORA-State-of-DevOps-2018.md){:target="_blank"}
 
 ## Aug-18
 
