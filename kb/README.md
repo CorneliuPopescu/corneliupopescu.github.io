@@ -1,4 +1,5 @@
 # Knowledge Base
+
 [_Home_](../)
 
 ## Oct-18
@@ -7,6 +8,7 @@
 - [Magic Quadrant for Contact Center as a Service, North America](2018-10/gartner-2018-mq-ccaas-na.md){:target="_blank"}
 - [DevOps Tools Lifecycle Mesh 2018](2018-10/devops-tools-lifecycle-mesh-2018.md){:target="_blank"}
 - [Learn Hashicorp Vault](2018-10/learn-hashicorp-vault.md){:target="_blank"}
+- [Introducing the DigitalOcean Terraform Provider](2018-10/digitalocean-terraform-provider.md){:target="_blank"}
 
 ## Aug-18
 
