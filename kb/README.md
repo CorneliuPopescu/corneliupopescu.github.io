@@ -11,6 +11,10 @@
 - [Introducing the DigitalOcean Terraform Provider](2018-10/digitalocean-terraform-provider.md){:target="_blank"}
 - [Accelerate: State of DevOps 2018: Strategies for a New Economy](2018-10/DORA-State-of-DevOps-2018.md){:target="_blank"}
 - [Open source releases from Microsoft](2018-10/open-source-ms.md)
+- [Origin Community Distribution of Kubernetes - OKD Openshift](2018-10/openshift-okd.md)
+- [Low Code Like a Pro](2018-10/low-code-like-a-pro.md)
+- [Fundamentals of Anomaly Detection](2018-10/fundamentals-of-anomaly-detection.md)
+- [How to Dockerize an ASP.Net Core application](2018-10/dockerize-asp.net-core-app.md)
 
 ## Aug-18
 
