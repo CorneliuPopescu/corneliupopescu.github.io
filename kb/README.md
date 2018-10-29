@@ -16,6 +16,7 @@
 1. [Fundamentals of Anomaly Detection](2018-10/fundamentals-of-anomaly-detection.md)
 1. [How to Dockerize an ASP.Net Core application](2018-10/dockerize-asp.net-core-app.md)
 1. [Wexflow - Workflows made easy](2018-10/wexflow.md)
+1. [David Snowden at Australian Library and Information Association - Aug. 2018](2018-10/david-snowden-at-alia.md)
 
 ## Aug-18
 
