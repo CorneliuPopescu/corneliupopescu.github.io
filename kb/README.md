@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## Nov-18
+
+1. [Reinforcement Learning with Prediction-Based Rewards](2018-11/reinforcement-learning-with-prediction-based-rewards.md){:target="_blank"}
+
 ## Oct-18
 
 1. [What Should Your Digital Experience Stack Look Like? It Depends](2018-10/digital-experience-stack.md){:target="_blank"}
