@@ -26,6 +26,6 @@
 ## Aug-18
 
 1. [Jekyll Themes for Github Pages](2018-08/jekyll-themes-for-github-pages.md){:target="_blank"}
-2. [How to copy SQL Server data to Elasticsearch using LogStash](2018-08/how-to-copy-sql-server-data-to-elasticsearch-using-logstash.md){:target="_blank"}
-3. [Gartner 2018 - Magic Quadrant for Enterprise Agile Planning Tools](2018-08/gartner-2018-mq-agile-tools.md){:target="_blank"}
-4. [#noprojects - A Culture of Continuous Value](2018-08/noprojects-a-culture-of-continuous-value.md){:target="_blank"}
+1. [How to copy SQL Server data to Elasticsearch using LogStash](2018-08/how-to-copy-sql-server-data-to-elasticsearch-using-logstash.md){:target="_blank"}
+1. [Gartner 2018 - Magic Quadrant for Enterprise Agile Planning Tools](2018-08/gartner-2018-mq-agile-tools.md){:target="_blank"}
+1. [#noprojects - A Culture of Continuous Value](2018-08/noprojects-a-culture-of-continuous-value.md){:target="_blank"}
