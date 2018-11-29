@@ -1,6 +1,6 @@
 # Title
 
-[Microservice 4.0 Journey](../docs/Microservice-Journey.pdf){:target="_blank"}
+[Microservice 4.0 Journey](../../docs/Microservice-Journey.pdf){:target="_blank"}
 
 > Microservice 4.0 Journey - From Spring NetFlix OSS to Istio Service Mesh and Serverless at Open Source Summit Japan
 
