@@ -8,6 +8,8 @@
 1. [Getting Started with Istio Service Mesh Routing](2018-11/istio-service-mesh-tutorial.md){:target="_blank"}
 1. [NGINX Unit](2018-11/nginx-unit.md){:target="_blank"}
 1. [Infrastructure as Code Library](2018-11/infrastructure-as-code-library.md){:target="_blank"}
+1. [Architecture Without an End State](2018-11/architecture-without-an-end-state.md){:target="_blank"}
+1. [NGINX Unit](2018-11/nginx-unit.md){:target="_blank"}
 
 ## Oct-18
 
