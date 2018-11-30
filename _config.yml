@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Corneliu's Pages
-description: DevOps, Microservices and related
+description: DevOps, Microservices, Systems Architecture Patterns and related
 plugins:
   - jekyll-feed
   - jekyll-sitemap
