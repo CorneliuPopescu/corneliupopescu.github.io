@@ -10,6 +10,7 @@
 1. [Infrastructure as Code Library](2018-11/infrastructure-as-code-library.md){:target="_blank"}
 1. [Architecture Without an End State](2018-11/architecture-without-an-end-state.md){:target="_blank"}
 1. [Microservice 4.0 Journey](2018-11/microservices-journey.md){:target="_blank"}
+1. [Dave Snowden - Operational Approach to Complexity](2018-11/operational-approach-to-complexity.md){:target="_blank"}
 
 ## Oct-18
 
