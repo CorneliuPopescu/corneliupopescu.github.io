@@ -1,5 +1,5 @@
 # Coming soon
 
-In the meantime you may check some things of interest below
+In the meantime you may find some things of interest below
 
-## [Knowledge Base](kb/README.md)
+## [Some latest readings](kb/README.md)
