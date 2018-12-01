@@ -13,7 +13,8 @@
 1. [Dave Snowden - Operational Approach to Complexity](2018-11/operational-approach-to-complexity.md){:target="_blank"}
 1. [NATS](2018-11/nats.md){:target="_blank"}
 1. [Kafka Cassandra Sink](2018-11/kafka-to-cassandra.md)
-1. [Pattern: Backends For Frontends](2011-11/bff.md)
+1. [Pattern: Backends For Frontends](2018-11/bff.md)
+1. [Rancher - Let's Encrypt](2018-11/rancher-ssl.md)
 
 ## Oct-18
 
