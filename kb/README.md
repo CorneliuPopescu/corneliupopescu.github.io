@@ -6,6 +6,14 @@
 
 1. [Reinforcement Learning with Prediction-Based Rewards](2018-11/reinforcement-learning-with-prediction-based-rewards.md){:target="_blank"}
 1. [Getting Started with Istio Service Mesh Routing](2018-11/istio-service-mesh-tutorial.md){:target="_blank"}
+1. [NGINX Unit](2018-11/nginx-unit.md){:target="_blank"}
+1. [Infrastructure as Code Library](2018-11/infrastructure-as-code-library.md){:target="_blank"}
+1. [Architecture Without an End State](2018-11/architecture-without-an-end-state.md){:target="_blank"}
+1. [Microservice 4.0 Journey](2018-11/microservices-journey.md){:target="_blank"}
+1. [Dave Snowden - Operational Approach to Complexity](2018-11/operational-approach-to-complexity.md){:target="_blank"}
+1. [NATS](2018-11/nats.md){:target="_blank"}
+1. [Kafka Cassandra Sink](2018-11/kafka-to-cassandra.md)
+1. [Pattern: Backends For Frontends](2011-11/bff.md)
 
 ## Oct-18
 
