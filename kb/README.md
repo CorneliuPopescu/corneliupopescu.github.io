@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## Dec-18
+
+1. [Getting Started with Istio Service Mesh Routing](2018-12/istio-tutorial.md)
+
 ## Nov-18
 
 1. [Reinforcement Learning with Prediction-Based Rewards](2018-11/reinforcement-learning-with-prediction-based-rewards.md){:target="_blank"}
