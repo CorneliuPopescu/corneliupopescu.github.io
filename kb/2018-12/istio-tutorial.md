@@ -6,7 +6,8 @@
 >
 > Due to Istio’s extensibility, and capabilities of service meshes in general, users can implement routing scenarios that would otherwise require a lot more time and resources.
 
-[Getting Started with Istio Service Mesh Routing](https://www.infoq.com/articles/istio-service-mesh-tutorial){:target="_blank"}
+- [Getting Started with Istio Service Mesh Routing](https://www.infoq.com/articles/istio-service-mesh-tutorial){:target="_blank"}
+- [Quick Start with Google Kubernetes Engine](https://istio.io/docs/setup/kubernetes/quick-start-gke-dm/)
 
 Tags: Microservices, Kubernetes, Istio
 
