@@ -4,9 +4,9 @@
 
 [Istio and OpenCensus 101 - Lightning Demo](https://github.com/thesandlord/Istio101){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
-Bonus: 
+Bonus:
 
-- [Entorno de pruebas de Istio y kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
+- [Entorno de pruebas de Istio y kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Microservices, Kubernetes, Istio
 
