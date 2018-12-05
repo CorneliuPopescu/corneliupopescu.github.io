@@ -9,6 +9,7 @@
 1. [Neo4j - Iterative modeling of corporate resources in a rapidly growing company](2018-12/neo4j-corporate-resource-modelling.md)
 1. [Neo4j - Integration with Kafka](2018-12/neo4j-kafka.md)
 1. [Istio Demos](2018-12/istio-quick-demo.md)
+1. [How Pinterest runs Kafka at scale](2018-12/kafka-pinterest.md)
 
 ## Nov-18
 
