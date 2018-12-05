@@ -1,6 +1,6 @@
 # Title
 
-[PDF](../docs/pdf.pdf){:target="_blank"} ![external redirect](../../img/ext-redir.png)
+[PDF](../docs/pdf.pdf){:target="_blank"}
 
 > Description 1
 >

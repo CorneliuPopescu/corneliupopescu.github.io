@@ -1,6 +1,6 @@
 # Magic Quadrant for Contact Center as a Service, North America
 
-[PDF](../../docs/Gartner-2018-CCaaS-NorthAmerica.pdf){:target="_blank"} ![external redirect](../../img/ext-redir.png)
+[PDF](../../docs/Gartner-2018-CCaaS-NorthAmerica.pdf){:target="_blank"}
 
 > North America’s CCaaS market has matured to provide application leaders responsible for customer service and support with a range of competitive offers to consider as substitutes for traditional on-premises contact center infrastructure. Here, we assess 10 vendors to help you make the right choice.
 >

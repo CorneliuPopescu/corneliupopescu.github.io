@@ -1,6 +1,6 @@
 # #noprojects A Culture of Continuous Value
 
-[PDF](../../docs/noprojects-a-culture-of-continuous-value.pdf){:target="_blank"} ![external redirect](../../img/ext-redir.png)
+[PDF](../../docs/noprojects-a-culture-of-continuous-value.pdf){:target="_blank"}
 
 > Today success comes from building products people love, creating loyal customers and serving the broader stakeholder community.  In this thoughtful exploration on the future of work, the authors explore the past, present and future of the “project”. And why, in today’s fast changing & hyper-competitive world, running a temporary endeavour is the wrong approach to building sustainable products and how #noprojects is fundamentally changing the way companies work.
 >
