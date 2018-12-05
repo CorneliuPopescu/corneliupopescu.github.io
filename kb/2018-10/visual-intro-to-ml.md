@@ -4,8 +4,8 @@
 >
 > Keep scrolling
 
-- [Part 1 - A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/){:target="_blank"}
-- [Part 2 - Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/){:target="_blank"}
+- [Part 1 - A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/){:target="_blank"} ![external redirect](../../img/ext-redir.png)
+- [Part 2 - Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 - Part 3 - Ensemble Methods - tbd
 
 Tags: Machine Learning, Data Analytics

@@ -6,7 +6,7 @@
 >
 > Most teams have the same basic infrastructure needs: server cluster, load balancer, database, cache, CI/CD, monitoring, secrets management, and so on. Why waste time building it all from scratch? At Gruntwork, we are a team of DevOps experts who have spent thousands of hours writing reusable infrastructure code, and now you can leverage all of it with the Infrastructure as Code Library. 
 
-[Infrastructure as Code Library](https://gruntwork.io/infrastructure-as-code-library/){:target="_blank"}
+[Infrastructure as Code Library](https://gruntwork.io/infrastructure-as-code-library/){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Cloud, DevOps
 

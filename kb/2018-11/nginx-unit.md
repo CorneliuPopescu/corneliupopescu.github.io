@@ -8,7 +8,7 @@
 > 
 > Deploy with Confidence - NGINX Unit is developed by the team behind NGINX, the most reliable and trusted name in application delivery.
 
-[NGINX Unit](https://www.nginx.com/products/nginx-unit/){:target="_blank"}
+[NGINX Unit](https://www.nginx.com/products/nginx-unit/){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Microservices, NGINX
 

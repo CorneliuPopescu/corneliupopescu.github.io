@@ -4,7 +4,7 @@
 >
 > Wexflow aims to make automations, workflow processes, long-running processes and interactions between systems, applications and folks easy, straightforward and clean. The communication between systems or applications becomes easy through this powerful workflow engine.
 
-[Wexflow - workflows made easy](https://github.com/aelassas/Wexflow){:target="_blank"}
+[Wexflow - workflows made easy](https://github.com/aelassas/Wexflow){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Workflow
 

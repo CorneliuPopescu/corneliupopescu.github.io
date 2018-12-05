@@ -4,7 +4,7 @@
 >
 > Today we want to make this available in a first release under an Apache License for you to try out and test. It works with Neo4j from 3.4.x and Kafka from 0.10.x.
 
-[A New Neo4j Integration with Apache Kafka](https://medium.com/neo4j/a-new-neo4j-integration-with-apache-kafka-6099c14851d2){:target="_blank"}
+[A New Neo4j Integration with Apache Kafka](https://medium.com/neo4j/a-new-neo4j-integration-with-apache-kafka-6099c14851d2){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Neo4j, Kafka, Graph database, MQ
 

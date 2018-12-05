@@ -5,7 +5,7 @@
 >
 > Istio is a service mesh. It is composed of control plane and data plane. For the data plane it uses Envoy proxy. Envoy itself is a L7 proxy and communication bus designed for modern microservices based architecture.
 
-[Getting Started with Istio Service Mesh Routing](https://www.infoq.com/articles/istio-service-mesh-tutorial){:target="_blank"}
+[Getting Started with Istio Service Mesh Routing](https://www.infoq.com/articles/istio-service-mesh-tutorial){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Kubernetes, Istio
 

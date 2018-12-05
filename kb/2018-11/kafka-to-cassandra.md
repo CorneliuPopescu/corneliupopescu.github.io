@@ -4,7 +4,7 @@
 >
 > The DataStax Certified Connector, developed by DataMountaineer, simplifies writing data from Kafka into Cassandra. The connector converts the value from the Kafka Connect SinkRecords to Json. A fail fast thread pool is then used to insert the records asynchronously into Cassandra.
 
-[Kafka Cassandra Sink](https://www.confluent.io/blog/kafka-connect-cassandra-sink-the-perfect-match/){:target="_blank"}
+[Kafka Cassandra Sink](https://www.confluent.io/blog/kafka-connect-cassandra-sink-the-perfect-match/){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Kafka, Cassandra, NoSQL, MQ
 

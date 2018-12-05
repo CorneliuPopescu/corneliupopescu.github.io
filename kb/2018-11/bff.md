@@ -4,7 +4,7 @@
 >
 > The BFF is tightly coupled to a specific user experience, and will typically be maintained by the same team as the user interface, thereby making it easier to define and adapt the API as the UI requires, while also simplifying process of lining up release of both the client and server components.
 
-[Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/){:target="_blank"}
+[Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: UI, API, Architecture
 

@@ -4,7 +4,7 @@
 >
 > The project consists of a family of open source components that are tightly integrated but can be deployed independently. NATS is based on a client-server architecture with servers that can be clustered to operate as a single entity – clients connect to these clusters to exchange data encapsulated in messages.
 
-[NATS](https://nats.io/documentation/){:target="_blank"}
+[NATS](https://nats.io/documentation/){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: MQ, Microservices
 

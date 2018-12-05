@@ -2,7 +2,7 @@
 
 > Dr. Dave Snowden discusses an operational approach to complexity at the Marine Corps University (Krulak Innovation Center)
 
-[Dave Snowden - Operational Approach to Complexity](https://youtu.be/KW5dt1DxXFs){:target="_blank"}
+[Dave Snowden - Operational Approach to Complexity](https://youtu.be/KW5dt1DxXFs){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Cynefin, Operations
 

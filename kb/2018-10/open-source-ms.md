@@ -4,7 +4,7 @@
 >
 > Popular projects include Visual Studio Code, TypeScript, and .NET. Microsoft's open source code is released under Open Source Initiative-approved licenses such as MIT and Apache 2.0.
 
-[Open source releases from Microsoft](https://opensource.microsoft.com){:target="_blank"}
+[Open source releases from Microsoft](https://opensource.microsoft.com){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Open Source, Microsoft
 
