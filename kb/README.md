@@ -8,7 +8,7 @@
 1. [Building Small Containers (Kubernetes Best Practices)](2018-12/k8s-small-containers.md)
 1. [Neo4j - Iterative modeling of corporate resources in a rapidly growing company](2018-12/neo4j-corporate-resource-modelling.md)
 1. [Neo4j - Integration with Kafka](2018-12/neo4j-kafka.md)
-1. [Istio and OpenCensus 101 - Lightning Demo](2018-12/istio-quick-demo.md)
+1. [Istio Demos](2018-12/istio-quick-demo.md)
 
 ## Nov-18
 
