@@ -11,6 +11,7 @@
 1. [Istio Demos](2018-12/istio-quick-demo.md)
 1. [How Pinterest runs Kafka at scale](2018-12/kafka-pinterest.md)
 1. [Micro Frontends](2018-12/micro-frontends.md)
+1. [Linkerd 2.x](2018-12/linkerd2.md)
 
 ## Nov-18
 
