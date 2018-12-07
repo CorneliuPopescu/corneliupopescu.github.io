@@ -5,7 +5,7 @@
 > Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
 
 - [Micro Frontends](https://micro-frontends.org/){:target="_blank"} ![external redirect](../../img/ext-redir.png)
-- [Github repo](https://github.com/neuland/micro-frontends)
+- [Github repo](https://github.com/neuland/micro-frontends) ![external redirect](../../img/ext-redir.png)
 
 Tags: UI Design, microfrontends
 
