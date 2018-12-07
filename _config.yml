@@ -6,3 +6,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
+exclude:
+  - kb/_template.md
