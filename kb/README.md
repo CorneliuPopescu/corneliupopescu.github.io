@@ -10,7 +10,7 @@
 1. [Neo4j - Integration with Kafka](2018-12/neo4j-kafka.md)
 1. [Istio Demos](2018-12/istio-quick-demo.md)
 1. [How Pinterest runs Kafka at scale](2018-12/kafka-pinterest.md)
-1. [Micro Frontends](https://micro-frontends.org/)
+1. [Micro Frontends](2018-12/micro-frontends.md)
 
 ## Nov-18
 
