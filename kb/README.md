@@ -12,6 +12,7 @@
 1. [How Pinterest runs Kafka at scale](2018-12/kafka-pinterest.md)
 1. [Micro Frontends](2018-12/micro-frontends.md)
 1. [Linkerd 2.x](2018-12/linkerd2.md)
+1. [Convert text-to-speech using Python](2018-12/tts-python.md)
 
 ## Nov-18
 
