@@ -13,6 +13,7 @@
 1. [Micro Frontends](2018-12/micro-frontends.md)
 1. [Linkerd 2.x](2018-12/linkerd2.md)
 1. [Convert text-to-speech using Python](2018-12/tts-python.md)
+1. [AWS - What is DevOps](2018-12/aws-devops.md)
 
 ## Nov-18
 
