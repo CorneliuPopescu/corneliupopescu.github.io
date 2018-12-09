@@ -14,6 +14,7 @@
 1. [Linkerd 2.x](2018-12/linkerd2.md)
 1. [Convert text-to-speech using Python](2018-12/tts-python.md)
 1. [AWS - What is DevOps](2018-12/aws-devops.md)
+1. [How to Use Minikube to Create Kubernetes Clusters](2018-12/minikube-how-to.md)
 
 ## Nov-18
 
