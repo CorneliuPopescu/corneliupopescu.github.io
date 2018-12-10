@@ -15,6 +15,7 @@
 1. [Convert text-to-speech using Python](2018-12/tts-python.md)
 1. [AWS - What is DevOps](2018-12/aws-devops.md)
 1. [How to Use Minikube to Create Kubernetes Clusters](2018-12/minikube-how-to.md)
+1. [Archimate - Software Architecture Modelling](2018-12/archimate.md)
 
 ## Nov-18
 
