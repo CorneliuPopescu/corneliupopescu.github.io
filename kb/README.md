@@ -22,6 +22,7 @@
 1. [Automated Canary Analysis at Netflix with Kayenta](2018-12/kayenta.md)
 1. [Uber Software Architecture](2018-12/uber-architecture.md)
 1. [Andrew Ng - AI Transformation Playbook](2018-12/ai-playbook.md)
+1. [Building a Service Mesh with HAProxy and Consul](2018-12/haproxy-consul.md)
 
 ## Nov-18
 
