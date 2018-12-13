@@ -20,6 +20,7 @@
 1. [Seven Microservices Anti-patterns](2018-12/microservices-antipatterns.md)
 1. [Migrating to a distributed system - case study](2018-12/distributed-system.md)
 1. [Automated Canary Analysis at Netflix with Kayenta](2018-12/kayenta.md)
+1. [Uber Software Architecture](2018-12/uber-architecture.md)
 
 ## Nov-18
 
