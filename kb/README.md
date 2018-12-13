@@ -19,6 +19,7 @@
 1. [A blog about using Google Dialogflow](2018-12/miningbusinessdata.md)
 1. [Seven Microservices Anti-patterns](2018-12/microservices-antipatterns.md)
 1. [Migrating to a distributed system - case study](2018-12/distributed-system.md)
+2. [Automated Canary Analysis at Netflix with Kayenta](2018-12/kayenta.md)
 
 ## Nov-18
 
