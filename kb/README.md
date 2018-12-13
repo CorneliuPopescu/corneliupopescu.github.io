@@ -21,6 +21,7 @@
 1. [Migrating to a distributed system - case study](2018-12/distributed-system.md)
 1. [Automated Canary Analysis at Netflix with Kayenta](2018-12/kayenta.md)
 1. [Uber Software Architecture](2018-12/uber-architecture.md)
+1. [Andrew Ng - AI Transformation Playbook](2018-12/ai-playbook.md)
 
 ## Nov-18
 
