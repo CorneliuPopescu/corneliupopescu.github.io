@@ -18,6 +18,7 @@
 1. [Archimate - Software Architecture Modelling](2018-12/archimate.md)
 1. [A blog about using Google Dialogflow](2018-12/miningbusinessdata.md)
 1. [Seven Microservices Anti-patterns](2018-12/microservices-antipatterns.md)
+1. [Migrating to a distributed system - case study](2018-12/distributed-system.md)
 
 ## Nov-18
 
