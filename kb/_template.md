@@ -1,6 +1,6 @@
 # Title
 
-[PDF](../docs/pdf.pdf){:target="_blank"}
+[PDF](../../docs/pdf.pdf){:target="_blank"}
 
 > Description 1
 >

@@ -1,6 +1,6 @@
 # AI Transformation Playbook by Andrew Ng
 
-[PDF](../docs/AI-Transformation-Playbook.pdf){:target="_blank"}
+[PDF](../../docs/AI-Transformation-Playbook.pdf){:target="_blank"}
 
 ## How to lead your company into the AI era
 
