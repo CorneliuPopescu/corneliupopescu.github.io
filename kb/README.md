@@ -17,6 +17,7 @@
 1. [How to Use Minikube to Create Kubernetes Clusters](2018-12/minikube-how-to.md)
 1. [Archimate - Software Architecture Modelling](2018-12/archimate.md)
 1. [A blog about using Google Dialogflow](2018-12/miningbusinessdata.md)
+1. [Seven Microservices Anti-patterns](2018-12/microservices-antipatterns.md)
 
 ## Nov-18
 
