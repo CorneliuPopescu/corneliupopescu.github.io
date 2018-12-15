@@ -6,7 +6,7 @@
 
 [Pagerduty - Incident Response](https://response.pagerduty.com/){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
-- [Github repo](https://github.com/pagerduty/incident-response-docs)
+- [Github repo](https://github.com/pagerduty/incident-response-docs){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
 Tags: Incident response, Organizational structure
 
