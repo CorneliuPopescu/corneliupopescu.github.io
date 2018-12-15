@@ -8,6 +8,6 @@
 
 - [Github repo](https://github.com/pagerduty/incident-response-docs)
 
-Tags: Incident response, Organization structure
+Tags: Incident response, Organizational structure
 
 [_Back_](../)
