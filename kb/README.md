@@ -29,6 +29,7 @@
 1. [Greg Burrell - Full Cycle Developers @Netflix](2018-12/netflix-devops.md)
 1. [Designing the Perfect Elasticsearch Cluster](2018-12/es-defintive-guide.md)
 1. [Using Kubernetes, Spinnaker and Istio to Manage a Multi-cloud Environment](2018-12/k8s-multicloud.md)
+1. [Airbnb - SpinalTap](2018-12/spinaltap.md)
 
 ## Nov-18
 
