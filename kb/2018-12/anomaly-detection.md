@@ -4,7 +4,9 @@
 
 [Why nobody cares about your anomaly detection - Baron Schwartz](https://learning.oreilly.com/videos/strata-data-conference/9781492025955/9781492025955-video319151){:target="_blank"} ![external redirect](../../img/ext-redir.png)
 
-Note: _Requires Safari subscription_
+Note: _Video requires Safari subscription_
+
+[Slides on Slideshare](https://www.slideshare.net/vividcortex/why-nobody-cares-about-your-anomaly-detection)
 
 Tags: ML
 
