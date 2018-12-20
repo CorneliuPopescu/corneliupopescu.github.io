@@ -8,6 +8,6 @@ Note: _Video requires Safari subscription_
 
 [Slides on Slideshare](https://www.slideshare.net/vividcortex/why-nobody-cares-about-your-anomaly-detection)
 
-Tags: ML
+Tags: ML, monitoring
 
 [_Back_](../)
