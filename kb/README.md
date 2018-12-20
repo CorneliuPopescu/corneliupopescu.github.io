@@ -30,6 +30,7 @@
 1. [Designing the Perfect Elasticsearch Cluster](2018-12/es-defintive-guide.md)
 1. [Using Kubernetes, Spinnaker and Istio to Manage a Multi-cloud Environment](2018-12/k8s-multicloud.md)
 1. [Airbnb - SpinalTap](2018-12/spinaltap.md)
+1. [Understanding Software System Behavior with ML and Time Series Data](2018-12/system-behavior-ml.md)
 
 ## Nov-18
 
