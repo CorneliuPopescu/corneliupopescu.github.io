@@ -32,6 +32,7 @@
 1. [Airbnb - SpinalTap](2018-12/spinaltap.md)
 1. [Understanding Software System Behavior with ML and Time Series Data](2018-12/system-behavior-ml.md)
 1. [How To Install Elasticsearch, Logstash, and Kibana (Elastic Stack) on CentOS 7](2018-12/elk-centos7.md)
+1. [Why nobody cares about your anomaly detection](2018-12/anomaly-detection.md)
 
 ## Nov-18
 
