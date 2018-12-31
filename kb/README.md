@@ -33,6 +33,7 @@
 1. [Understanding Software System Behavior with ML and Time Series Data](2018-12/system-behavior-ml.md)
 1. [How To Install Elasticsearch, Logstash, and Kibana (Elastic Stack) on CentOS 7](2018-12/elk-centos7.md)
 1. [Why nobody cares about your anomaly detection](2018-12/anomaly-detection.md)
+1. [The End of Industrial Automation (As We Know It)](2018-12/industrial-automation.md)
 
 ## Nov-18
 
