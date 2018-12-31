@@ -37,6 +37,7 @@
 1. [The Kubernetes Effect](2018-12/k8s-effect.md)
 1. [How Low Can Kubernetes Go? Rancher, Arm Team to Find Out](2018-12/k8s-arm.md)
 1. [Lyft's Envoy: Embracing a Service Mesh](2018-12/envoy.md)
+1. [Redefining Your Technology Strategy For An AI World](2018-12/ai-strategy.md)
 
 ## Nov-18
 
