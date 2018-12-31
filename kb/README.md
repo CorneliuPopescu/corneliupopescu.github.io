@@ -39,6 +39,7 @@
 1. [Lyft's Envoy: Embracing a Service Mesh](2018-12/envoy.md)
 1. [Redefining Your Technology Strategy For An AI World](2018-12/ai-strategy.md)
 1. [Chaos Engineering - eMag](2018-12/chaos-engineering.md)
+1. [The JHipster Mini-Book 5.0](2018-12/jhipster-5.md)
 
 ## Nov-18
 
