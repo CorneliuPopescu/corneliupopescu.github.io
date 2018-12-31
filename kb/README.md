@@ -36,6 +36,7 @@
 1. [The End of Industrial Automation (As We Know It)](2018-12/industrial-automation.md)
 1. [The Kubernetes Effect](2018-12/k8s-effect.md)
 1. [How Low Can Kubernetes Go? Rancher, Arm Team to Find Out](2018-12/k8s-arm.md)
+1. [Lyft's Envoy: Embracing a Service Mesh](2018-12/envoy.md)
 
 ## Nov-18
 
