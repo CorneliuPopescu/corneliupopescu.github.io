@@ -8,6 +8,7 @@
 1. [Kong 1.0 GA](2019-01/kong-1.0.md)
 1. [Kong - Kubernetes](2019-01/k8s-kong.md)
 1. [Node-RED](2019-01/node-red.md)
+1. [Zetta](2019-01/zetta.md)
 
 ## Dec-18
 
