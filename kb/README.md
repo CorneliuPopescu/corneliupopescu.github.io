@@ -6,6 +6,7 @@
 
 1. [High Performance ELK with Kubernetes](2019-01/k8s-elk.md)
 1. [Kong 1.0 GA](2019-01/kong-1.0.md)
+1. [Kong - Kubernetes](2019-01/k8s-kong.md)
 
 ## Dec-18
 
