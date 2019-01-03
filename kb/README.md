@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## Jan-19
+
+1. [High Performance ELK with Kubernetes](2019-01/k8s-elk.md)
+
 ## Dec-18
 
 1. [Getting Started with Istio Service Mesh Routing](2018-12/istio-tutorial.md)
