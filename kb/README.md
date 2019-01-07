@@ -9,7 +9,7 @@
 1. [Kong - Kubernetes](2019-01/k8s-kong.md)
 1. [Node-RED](2019-01/node-red.md)
 1. [Zetta](2019-01/zetta.md)
-1. [Resarch on using ML techniques for system logs analysis](2019-01/ml-logs.md)
+1. [Research on using ML techniques for system logs analysis](2019-01/ml-logs.md)
 
 ## Dec-18
 

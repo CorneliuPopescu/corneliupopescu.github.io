@@ -5,7 +5,7 @@
 - [Local Anomaly Detection for Network System Log Monitoring](../../docs/Local-Anomaly-Detection-for-Network-System-Log-Monitoring.pdf){:target="_blank"}
 - [Markov Chain Modeling for Anomaly Detection in High Performance Computing System Logs](../../docs/markov-chain-modeling-for-anomaly-detection-in-high-performance-computing-system-logs.pdf){:target="_blank"}
 - [Experience Report: System Log Analysis for Anomaly Detection](../../docs/Experience-Report-System-Log-Analysis-for-Anomaly-Detection.pdf){:target="_blank"}
-- [UNSUPERVISED ANOMALY DETECTION IN UNSTRUCTURED LOG-DATA FOR ROOT-CAUSE-ANALYSIS](../../docs/unsupervised-anomaly-detection-in-unstructured-log-data-for-root-cause-analysis.pdf){:target="_blank"}
+- [Unsupervised Anomaly Detection in Unstructured Log-Data for Root-Cause-Analysis](../../docs/unsupervised-anomaly-detection-in-unstructured-log-data-for-root-cause-analysis.pdf){:target="_blank"}
 
 Tags: Machine Learining, syslog
 
