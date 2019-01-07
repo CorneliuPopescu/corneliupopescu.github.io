@@ -1,4 +1,4 @@
-# Resarch on using ML techniques for system logs analysis
+# Research on using ML techniques for system logs analysis
 
 - [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](../../docs/DeepLog-Anomaly-Detection-and-Diagnosis-from-System-Logs.pdf){:target="_blank"}
 - [Detecting Anomaly in Big Data System Logs Using Convolutional Neural Network](../../docs/Detecting-Anomaly-in-Big-Data-System-Logs-Using-Convolutional-Neural-Network.pdf){:target="_blank"}
