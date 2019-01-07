@@ -7,6 +7,6 @@
 - [Experience Report: System Log Analysis for Anomaly Detection](../../docs/Experience-Report-System-Log-Analysis-for-Anomaly-Detection.pdf){:target="_blank"}
 - [Unsupervised Anomaly Detection in Unstructured Log-Data for Root-Cause-Analysis](../../docs/unsupervised-anomaly-detection-in-unstructured-log-data-for-root-cause-analysis.pdf){:target="_blank"}
 
-Tags: Machine Learining, syslog
+Tags: Machine Learning, syslog
 
 [_Back_](../)
