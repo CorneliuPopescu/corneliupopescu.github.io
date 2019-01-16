@@ -11,6 +11,7 @@
 1. [Zetta](2019-01/zetta.md)
 1. [Research on using ML techniques for system logs analysis](2019-01/ml-logs.md)
 1. [Orange Toolbox - Data Mining Fruitful and Fun](2019-01/orange-ml.md)
+1. [Jenkins Configuration as Code](2019-01/jenkins-config.md)
 
 ## Dec-18
 
