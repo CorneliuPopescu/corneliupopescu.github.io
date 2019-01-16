@@ -13,6 +13,7 @@
 1. [Orange Toolbox - Data Mining Fruitful and Fun](2019-01/orange-ml.md)
 1. [Jenkins Configuration as Code](2019-01/jenkins-config.md)
 1. [Creating a Terraform Provider for Just About Anything](2019-01/terraform-provider.md)
+1. [Gartner - Magic Quadrant for Cloud Infrastructure as a Service, Worldwide](2019-01/gartner-mq-iaas.md)
 
 ## Dec-18
 
