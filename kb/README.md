@@ -15,6 +15,7 @@
 1. [Creating a Terraform Provider for Just About Anything](2019-01/terraform-provider.md)
 1. [Gartner - Magic Quadrant for Cloud Infrastructure as a Service, Worldwide](2019-01/gartner-mq-iaas.md)
 1. [Getting to the Critical Few Behaviors That Can Drive Cultural Change](2019-01/org-culture-change.md)
+1. [Istio - Connecting, Managing, Observing, and Securing Services](2019-01/istio-presentation.md)
 
 ## Dec-18
 
