@@ -17,6 +17,7 @@
 1. [Getting to the Critical Few Behaviors That Can Drive Cultural Change](2019-01/org-culture-change.md)
 1. [Istio - Connecting, Managing, Observing, and Securing Services](2019-01/istio-presentation.md)
 1. [Designing Automated Pipelines for Unseen Custom Data](2019-01/pipelines-ml.md)
+1. [Enigma](2019-01/enigma.md)
 
 ## Dec-18
 
