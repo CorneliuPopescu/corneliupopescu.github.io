@@ -18,6 +18,7 @@
 1. [Istio - Connecting, Managing, Observing, and Securing Services](2019-01/istio-presentation.md)
 1. [Designing Automated Pipelines for Unseen Custom Data](2019-01/pipelines-ml.md)
 1. [Enigma](2019-01/enigma.md)
+1. [Introducing Istio Service Mesh for Microservices](2019-01/istio-intro.md)
 
 ## Dec-18
 
