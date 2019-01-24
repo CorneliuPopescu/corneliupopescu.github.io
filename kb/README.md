@@ -21,6 +21,7 @@
 1. [Introducing Istio Service Mesh for Microservices](2019-01/istio-intro.md)
 1. [Wildcard Let's Ecrypt SSL certs for Kubernetes](2019-01/k8s-ssl-wildcard.md)
 1. [QCon 2018 - Retrospective](2019-01/qcon-2018-summary.md)
+1. [Using HashiCorp Consul to connect Kubernetes clusters on Azure](2019-01/consul-k8s-azure.md)
 
 ## Dec-18
 
