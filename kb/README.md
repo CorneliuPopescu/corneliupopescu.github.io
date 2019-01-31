@@ -19,9 +19,10 @@
 1. [Designing Automated Pipelines for Unseen Custom Data](2019-01/pipelines-ml.md)
 1. [Enigma](2019-01/enigma.md)
 1. [Introducing Istio Service Mesh for Microservices](2019-01/istio-intro.md)
-1. [Wildcard Let's Ecrypt SSL certs for Kubernetes](2019-01/k8s-ssl-wildcard.md)
+1. [Wildcard Let's Encrypt SSL certs for Kubernetes](2019-01/k8s-ssl-wildcard.md)
 1. [QCon 2018 - Retrospective](2019-01/qcon-2018-summary.md)
-1. [Using HashiCorp Consul to connect Kubernetes clusters on Azure](2019-01/consul-k8s-azure.md)
+1. [Using Hashicorp Consul to connect Kubernetes clusters on Azure](2019-01/consul-k8s-azure.md)
+1. [Istio Multicluster on OpenShift](2019-01/istio-multicluster-openshift.md)
 
 ## Dec-18
 
