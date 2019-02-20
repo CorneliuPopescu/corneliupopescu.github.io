@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## Feb-19
+
+1. [Hashicorp Vault Reference Architecture](2019-02/vault-ref.md)
+
 ## Jan-19
 
 1. [High Performance ELK with Kubernetes](2019-01/k8s-elk.md)
