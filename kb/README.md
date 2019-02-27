@@ -5,6 +5,7 @@
 ## Feb-19
 
 1. [Hashicorp Vault Reference Architecture](2019-02/vault-ref.md)
+1. [Fitness function-driven development](2019-02/ffdd.md)
 
 ## Jan-19
 
