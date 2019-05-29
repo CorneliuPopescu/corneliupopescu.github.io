@@ -7,6 +7,7 @@
 1. [Ludwig by Uber](2019-05/ludwig.md)
 2. [Massive Scale Anomaly Detection Framework](2019-05/anomaly.md)
 3. [Apache Superset (incubating)](2019-05/superset.md)
+4. [Next Generation System Modeling Language - NextGenSysML](2019-05/nextgensysml.md)
 
 ## Feb-19
 
