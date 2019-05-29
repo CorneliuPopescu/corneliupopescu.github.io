@@ -5,6 +5,7 @@
 ## May-19
 
 1. [Ludwig by Uber](2019-05/ludwig.md)
+2. [Massive Scale Anomaly Detection Framework](2019-05/anomaly.md)
 
 ## Feb-19
 
