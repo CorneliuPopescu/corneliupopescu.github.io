@@ -11,6 +11,7 @@
 1. [Weight of evidence and Information Value using Python](2019-05/woe-iv.md)
 1. [Any API](2019-05/any-api.md)
 1. [StarUML 3](2019-05/star-uml.md)
+1. [Drools](2019-05/drools.md)
 
 ## Feb-19
 
