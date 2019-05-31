@@ -12,6 +12,7 @@
 1. [Any API](2019-05/any-api.md)
 1. [StarUML 3](2019-05/star-uml.md)
 1. [Drools](2019-05/drools.md)
+1. [Open Distro for Elasticsearch on Kubernetes](2019-05/open-distro-k8s.md)
 
 ## Feb-19
 
