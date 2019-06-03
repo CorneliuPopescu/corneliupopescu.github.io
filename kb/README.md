@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## June-19
+
+1. [SRE: Increased Context in Human Involved Incident Response(IR)](2019-06/sre-knowledge-graphs.md)
+
 ## May-19
 
 1. [Ludwig by Uber](2019-05/ludwig.md)
@@ -14,7 +18,6 @@
 1. [Drools](2019-05/drools.md)
 1. [Zeebe](2019-05/zeebe.md)
 1. [Open Distro for Elasticsearch on Kubernetes](2019-05/open-distro-k8s.md)
-1. [SRE: Increased Context in Human Involved Incident Response(IR)](2019-05/sre-knowledge-graphs.md)
 
 ## Feb-19
 
