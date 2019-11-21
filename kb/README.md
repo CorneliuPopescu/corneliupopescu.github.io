@@ -5,6 +5,7 @@
 ## November-19
 
 1. [QConSF19: How to test infrastructure code](2019-11/test-infrastructure-code.md)
+1. [Achieving Low-Latency in the Cloud with OSS](cloud-low-latency.md)
 
 ## June-19
 
