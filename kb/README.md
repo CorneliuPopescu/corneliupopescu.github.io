@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## November-19
+
+1. [QConSF19: How to test infrastructure code](2019-11/test-infrastructure-code.md)
+
 ## June-19
 
 1. [SRE: Increased Context in Human Involved Incident Response(IR)](2019-06/sre-knowledge-graphs.md)
