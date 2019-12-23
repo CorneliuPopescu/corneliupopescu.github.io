@@ -5,6 +5,7 @@
 ## December-19
 
 1. [QCon London 2019: Crossing the River by Feeling the Stones](2019-12/crossing-the-river.md)
+1. [GCHQ: Boiling Frogs](2019-12/boiling-frogs.md)
 
 ## November-19
 
