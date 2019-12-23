@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## December-19
+
+1. [QCon London 2019: Crossing the River by Feeling the Stones](2019-12/crossing-the-river.md)
+
 ## November-19
 
 1. [QConSF19: How to test infrastructure code](2019-11/test-infrastructure-code.md)
