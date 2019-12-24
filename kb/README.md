@@ -6,7 +6,8 @@
 
 1. [QCon London 2019: Crossing the River by Feeling the Stones](2019-12/crossing-the-river.md)
 1. [GCHQ: Boiling Frogs](2019-12/boiling-frogs.md)
-1. [](2019-12/coding-without-complexity.md)
+1. [Coding Without Complexity](2019-12/coding-without-complexity.md)
+1. [Dark: A language built for deployless backends](2019-12/dark.md)
 
 ## November-19
 
