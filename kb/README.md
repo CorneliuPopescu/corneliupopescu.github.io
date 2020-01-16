@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## January-20
+
+1. [How OceanMind Uses Wardley Maps to Combat Illegal Fishing](2020-01/wardley-map-oceanmind.md)
+
 ## December-19
 
 1. [QCon London 2019: Crossing the River by Feeling the Stones](2019-12/crossing-the-river.md)
