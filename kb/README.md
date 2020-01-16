@@ -5,6 +5,7 @@
 ## January-20
 
 1. [How OceanMind Uses Wardley Maps to Combat Illegal Fishing](2020-01/wardley-map-oceanmind.md)
+1. [Simon Wardley: Wardley Maps](wardley-maps.md)
 
 ## December-19
 
