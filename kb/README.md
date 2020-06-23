@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## June-20
+
+1. [Open Policy Agent](2020-06/opa.md)
+
 ## March-20
 
 1. [InfraCoding with Terraform: Writing Tests for Infrastructure-as-Code](2020-03/infracoding-terraform.md)
