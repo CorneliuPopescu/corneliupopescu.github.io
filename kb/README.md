@@ -5,6 +5,7 @@
 ## June-20
 
 1. [Open Policy Agent](2020-06/opa.md)
+1. [Weave Scope](2020-06/weave-scope.md)
 
 ## March-20
 
