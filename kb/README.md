@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## July-20
+
+1. [Learning from Incidents in Software](2020-07/lfi.md)
+
 ## June-20
 
 1. [Open Policy Agent](2020-06/opa.md)
