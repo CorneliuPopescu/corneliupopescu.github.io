@@ -5,6 +5,7 @@
 ## July-20
 
 1. [Learning from Incidents in Software](2020-07/lfi.md)
+1. [How to build a Threat Hunting platform using ELK Stack](2020-07/threat-elk.md)
 
 ## June-20
 
