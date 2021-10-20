@@ -2,6 +2,10 @@
 
 [_Home_](../)
 
+## October-21
+
+1. [Introduction to Probability for Data Science](2021-10/probability-data-science.md)
+
 ## July-20
 
 1. [Learning from Incidents in Software](2020-07/lfi.md)
