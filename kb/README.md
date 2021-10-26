@@ -7,6 +7,7 @@
 1. [Introduction to Probability for Data Science](2021-10/probability-data-science.md)
 1. [Basic Angular 10 Crud Generator, Powered by Python EVE](https://medium.com/@rockaru/basic-angular-10-crud-generator-powered-by-python-eve-part-1-225e235ff54a)
 1. [Build a CRUD Web App With Python and Flask](https://www.digitalocean.com/community/tutorials/build-a-crud-web-app-with-python-and-flask-part-one)
+1. [Azure Key Vault Acmebot](https://github.com/shibayan/keyvault-acmebot)
 
 ## July-20
 
