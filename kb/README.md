@@ -5,6 +5,7 @@
 ## October-21
 
 1. [Introduction to Probability for Data Science](2021-10/probability-data-science.md)
+1. [Basic Angular 10 Crud Generator, Powered by Python EVE](https://medium.com/@rockaru/basic-angular-10-crud-generator-powered-by-python-eve-part-1-225e235ff54a)
 
 ## July-20
 
